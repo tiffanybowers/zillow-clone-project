@@ -1,4 +1,4 @@
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import Grid from "./components/Grid";
 
 const getProperties = async() => {
